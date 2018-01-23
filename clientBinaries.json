@@ -72,7 +72,7 @@
                         "download": {
                             "url": "https://github.com/iCubeChain/icubebinary/releases/download/V1.7.2/geth-windows-amd64-1.7.2-1db4ecdc.zip",
                             "type": "zip",
-                            "md5": "a6b80f0856f32a775ed3e4262b4ea96a",
+                            "md5": "d0d5d4caf500481e861d5daf2d126625",
                             "bin": "geth-windows-amd64-1.7.2-1db4ecdc\\geth.exe"
                         },
                         "bin": "geth.exe",
