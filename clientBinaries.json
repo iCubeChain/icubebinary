@@ -50,7 +50,7 @@
                         "download": {
                             "url": "https://github.com/iCubeChain/icubebinary/releases/download/V1.7.2/geth-darwin-amd64-1.7.2-1db4ecdc.tar.gz",
                             "type": "tar",
-                            "md5": "cf60906fb51076dd6da6b99bc9ea121d",
+                            "md5": "f6aeba7fafee25ddd74882c35da8277e",
                             "bin": "geth-darwin-amd64-1.7.2-1db4ecdc/geth"
                         },
                         "bin": "geth",
