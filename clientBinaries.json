@@ -92,7 +92,7 @@
                         "download": {
                             "url": "https://github.com/iCubeChain/icubebinary/releases/download/V1.7.2/geth-windows-386-1.7.2-1db4ecdc.zip",
                             "type": "zip",
-                            "md5": "b6e6f3206a240b3dfcfd0cb2813f0b56",
+                            "md5": "0143f6181055e72821690f30285db044",
                             "bin": "geth-windows-386-1.7.2-1db4ecdc\\geth.exe"
                         },
                         "bin": "geth.exe",
